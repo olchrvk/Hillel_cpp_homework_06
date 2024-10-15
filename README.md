@@ -3,4 +3,4 @@
 - std::string array[];  
 - float array[];  
 - char array[]  
-**Зробіть це як методи класу СPrinter. **
+**Зробіть це як методи класу СPrinter.**
